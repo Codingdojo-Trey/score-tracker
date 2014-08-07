@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#scores
+{
+	border: 7px solid red;
+}
+
+.scorebox
+{
+	display: inline-block;
+	vertical-align: top;
+	border: 5px solid navy;
+	margin: 30px;
+	margin-left: 100px;
+	padding: 20px;
+	text-align: center;
+}
+
+#team1, #team2
+{
+	display: inline-block;
+	margin: 30px;
+}
